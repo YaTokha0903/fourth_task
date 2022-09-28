@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello, people
 My name is Takhir
 And what is your name?
